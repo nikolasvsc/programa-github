@@ -1,0 +1,6 @@
+nombre : nikolas david porras morales ficha 3336166
+correo : nikolasdavidporras11@gmail.com
+pais : colombia
+edad : 18
+tecnologo : analisis y desarrollo de software
+git add .
